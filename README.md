@@ -1,5 +1,7 @@
 # College Majors
 
+All data is from American Community Survey 2010-2012 Public Use Microdata Series.
+
 Each row in the dataset represents a different major in college and contains information on gender diversity, employment rates, median salaries, and more. Here are some of the columns in the dataset:
 
 * <code>Rank</code> - Rank by median earnings (the dataset is ordered by this column).
