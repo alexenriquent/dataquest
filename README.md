@@ -1,1 +1,1 @@
-# nyc-high-school
+# NYC High School Data
