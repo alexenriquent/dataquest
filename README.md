@@ -1,6 +1,6 @@
 # Star Wars Survey
 The Star Wars Survey data has several columns, including:
-* <code>RespondentID</code> - An anonymized ID for the respondent (person taking the survey)
+* <code>RespondentID</code> - An anonymised ID for the respondent (person taking the survey)
 * <code>Gender</code> - The respondent's gender
 * <code>Age</code> - The respondent's age
 * <code>Household Income</code> - The respondent's income
