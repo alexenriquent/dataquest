@@ -1,1 +1,1 @@
-# fandango-movie-ratings
+# Fandango Movie Ratings
