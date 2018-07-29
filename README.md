@@ -11,4 +11,3 @@ Hickey found that there's a significant discrepancy between the number of stars 
 * For one movie rating, the rounding off was completely bizarre: from a rating of 4 in the HTML of the page to a displayed rating of 5 stars.
 
 This project will analyse more recent movie ratings data to determine whether there has been any change in Fandango's rating system after Hickey's analysis.
-
