@@ -8,3 +8,4 @@
 * [Star Wars Survey](https://github.com/alexenriquent/dataquest/tree/master/star-wars)
 * [Visualising Earnings Based On College Majors](https://github.com/alexenriquent/dataquest/tree/master/college-majors)
 * [Visualising Gender Gap Across All College Degrees](https://github.com/alexenriquent/dataquest/tree/master/gender-gap)
+* [Winning Jeopardy](https://github.com/alexenriquent/dataquest/tree/master/jeopardy)
