@@ -7,6 +7,7 @@
 * [Investigating Fandango's Movie Rating System](https://github.com/alexenriquent/dataquest/tree/master/fandango)
 * [Kaggle Workflow](https://github.com/alexenriquent/dataquest/tree/master/kaggle)
 * [Predicting Bike Rentals](https://github.com/alexenriquent/dataquest/tree/master/bike-rentals)
+* [Predicting Car Prices](https://github.com/alexenriquent/dataquest/tree/master/car-prices)
 * [Predicting the Stock Market](https://github.com/alexenriquent/dataquest/tree/master/stock-market)
 * [Star Wars Survey](https://github.com/alexenriquent/dataquest/tree/master/star-wars)
 * [Visualising Earnings Based On College Majors](https://github.com/alexenriquent/dataquest/tree/master/college-majors)
