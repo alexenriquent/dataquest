@@ -4,6 +4,7 @@
 * [Analysing NYC High School Data](https://github.com/alexenriquent/dataquest/tree/master/schools)
 * [Analysing Thanksgiving Dinner](https://github.com/alexenriquent/dataquest/tree/master/thanksgiving)
 * [Answering Business Questions using SQL](https://github.com/alexenriquent/dataquest/tree/master/chinook)
+* [Investigating Fandango Movie Ratings](https://github.com/alexenriquent/dataquest/tree/master/fandango-ratings)
 * [Investigating Fandango's Movie Rating System](https://github.com/alexenriquent/dataquest/tree/master/fandango)
 * [Kaggle Workflow](https://github.com/alexenriquent/dataquest/tree/master/kaggle)
 * [Predicting Bike Rentals](https://github.com/alexenriquent/dataquest/tree/master/bike-rentals)
