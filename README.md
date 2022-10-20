@@ -1,4 +1,4 @@
-# Data Science Projects
+# Data Science Projects (Dataquest)
 
 * [Analysing CIA Factbook Data Using SQLite](https://github.com/alexenriquent/dataquest/tree/master/facebook)
 * [Analysing NYC High School Data](https://github.com/alexenriquent/dataquest/tree/master/schools)
